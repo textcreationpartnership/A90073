@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from Bowe, and the Earle of Norwich his speech at a randevous on Pickenden Heath, who is designed Generall of the enemies forces. With the coppy of a new oath taken concerning what shall be concluded and resolvbed upon at their councells, and for effecting their results. Also the particular relation of the whole businesse in Kent, and a list of the names of prisoners taken at Maidstone viz. Sir Gamaliel Dudley. Sir William Brockman. Esquire Scott. Major Price. And many other of quality. Those which are escaped and were very active, are the Earle of Norwich. Esquire Hales. Sir VVilliam Compton. Sir Thomas Peyton. Sir Bernard Gascoine. Sir Iohn Many. And divers others.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90073</idno>
+            <idno type="STC">Wing N950</idno>
+            <idno type="STC">Thomason E446_9</idno>
+            <idno type="STC">ESTC R204816</idno>
+            <idno type="EEBO-CITATION">99864279</idno>
+            <idno type="PROQUEST">99864279</idno>
+            <idno type="VID">161776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161776)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E446[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from Bowe, and the Earle of Norwich his speech at a randevous on Pickenden Heath, who is designed Generall of the enemies forces. With the coppy of a new oath taken concerning what shall be concluded and resolvbed upon at their councells, and for effecting their results. Also the particular relation of the whole businesse in Kent, and a list of the names of prisoners taken at Maidstone viz. Sir Gamaliel Dudley. Sir William Brockman. Esquire Scott. Major Price. And many other of quality. Those which are escaped and were very active, are the Earle of Norwich. Esquire Hales. Sir VVilliam Compton. Sir Thomas Peyton. Sir Bernard Gascoine. Sir Iohn Many. And divers others.</title>
+                  <author>Norwich, George Goring, Earl of, 1583?-1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norwich, George Goring, --  Earl of, 1583?-1663.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Kent --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161776:1" rendition="simple:additions"/>
+            <p>NEVVES FROM BOWE, AND The Earle of Norwich his Speech at a Randevous on Pickenden Heath, who is deſigned Generall of the Enemies Forces.</p>
+            <p>WITH The Coppy of a new Oath taken concerning what ſhall be con<g ref="char:EOLhyphen"/>cluded and reſolved upon at their Councells, and for effecting their Reſults.</p>
+            <p>ALSO The particular Relation of the whole buſineſſe in Kent, and a Liſt of the Names of priſoners taken at Maidſtone <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <list>
+                     <item>Sir <hi>Gamaliel Dudley.</hi>
+                     </item>
+                     <item>Sir <hi>William Brockman.</hi>
+                     </item>
+                     <item>Eſquire <hi>Scott.</hi>
+                     </item>
+                     <item>Major <hi>Price.</hi>
+                     </item>
+                     <item>And many other of quality.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Thoſe which are eſcaped and were very active, are</head>
+                     <item>The Earle of Norwich.</item>
+                     <item>Eſquire <hi>Hales.</hi>
+                     </item>
+                     <item>Sir <hi>VVilliam Compton.</hi>
+                     </item>
+                     <item>Sir <hi>Thomas Peyton.</hi>
+                     </item>
+                     <item>Sir <hi>Bernard Gaſcoine.</hi>
+                     </item>
+                     <item>Sir <hi>Iohn Many.</hi>
+                     </item>
+                     <item>And divers others.</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <add>June 6<hi rend="sup">th</hi>
+               </add>
+            </p>
+            <p>LONDON, Printed by <hi>B. A.</hi> MDCXL VIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161776:2"/>
+            <pb n="1" facs="tcp:161776:2"/>
+            <head>A particular RELATION From KENT</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here have beene taken ſince thurſday night laſt, as many priſoners as make up thoſe then taken at <hi>Maidſtone</hi> 1400, di<g ref="char:EOLhyphen"/>vers of them being the Officers of a Re<g ref="char:EOLhyphen"/>giment of foot, four Troops of horſe: their qualities are not yet known in re<g ref="char:EOLhyphen"/>gard they conceale themſelves: there are taken which we know Sir <hi>Gamaliel Dudley</hi> who was appoin<g ref="char:EOLhyphen"/>ted Governour of <hi>Maidstone,</hi> Sir <hi>Wil. Brockman</hi> Col: of a Regiment of foot, Squire <hi>Scot,</hi> Major <hi>Price,</hi> and divers o<g ref="char:EOLhyphen"/>thers, the peefect Liſt of which I ſhall ſend you by the next.</p>
+            <p>
+               <pb n="2" facs="tcp:161776:3"/>
+Some of the priſoners taken ſay, that there were preſent at the Randezvouz on Pickenden Heath, on Thurſday the Earle or Notwich, who was deſigned to be their Generall, who made a ſpeech of incouragement to them, that he would deſire them to go no further then he went himſelfe, and that if they faild now they ſhould be for ever ſlaves.</p>
+            <p>The foot were ill armed and ſome whole files rode on Horſe back in a rude &amp; uncouth manner.</p>
+            <p>Squire <hi>Hales</hi> was to be Lievtnant Generall to this Mock Army, and Sir <hi>william Compton</hi> their Major Generall, Sir <hi>BernardGaſcoin</hi> a French Monſieur offred to bring 50 Lieut. to be imployed in this 'army Sir Thomas Many, and others were very active.</p>
+            <p>Their Lieutenant Generall is to have a Regiment of horſe, and another of foot.</p>
+            <p>Yeſterday we had intelligence that the Enemy went a<g ref="char:EOLhyphen"/>bout three in the afternoone out of Rocheſter towards Graveſend, they broke up the bridge that no horſe might paſſe: the Town were very glad they were gone Major <hi>Brown</hi> Governour of Upnecaſt as they upon their going away over turned their carriages of their ordinance, and the wo<g ref="char:EOLhyphen"/>men of the Town helpt to throw down the workes, they were not full 3000 that marched out of that Town.</p>
+            <p>One of the Priſoners being a Lawyers Clark, hang'd him<g ref="char:EOLhyphen"/>ſelf in a Belrope in the Church where they were kept.</p>
+            <p>Yeſterpay morning one of the Lord Generalls footmen going to view the dead bodies met with Major Price one of the enemies party and took him priſoner with his ſword by his ſide though the other had no ſword of other Armes.</p>
+            <p>There was taken in the pockets of the one Lamb the copy of an oath of ſecrecy which is as followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <opener>
+                           <dateline>Rocbeſtor <date>3 May 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>We oblige our ſelves by the faith of Chriſtians and the honour of Gentlemen not to diſroven or betrag a<g ref="char:EOLhyphen"/>ny
+<pb n="3" facs="tcp:161776:3"/>
+debate, or concluſtons concluded or reſolved upon by the ſubſcribers hereof further faithfull and reſolute ly to deliver our judgements a indevours in effectuating of theſe Reſults,</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This day his Excellency with Army advanced from Maid<g ref="char:EOLhyphen"/>ſtone and had Rendezvous upon Packenton Heath between Maidſtone and Rocheſter, where the Army was drawn up and a Councell of Warre being called, divers were procee<g ref="char:EOLhyphen"/>ded againſt for ſeuerall miſdemeanours one James Pluet of Col. Barkſteads Regiment was condemned to dye for taking 35. from a Country woman.</p>
+            <p>We are now come to Rocheſter, and have ſent forth par<g ref="char:EOLhyphen"/>ties to Graves-end Dartford &amp; Craford to attend the Enimies motion who whe hear were this day at Wolwich and black<g ref="char:EOLhyphen"/>heath I pray ſend word how things are with you in London what you hear from black heath and from Effex, my tender reſpects all our friend, not forgetting my ſweet. Frien,</p>
+            <closer>In haſt I reſt. <dateline>Rocheſher. <date>3 of <hi>Iunij.</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <list>
+                  <head>A Liſt of the names before mentioned.</head>
+                  <item>The Earle of Norwich, de<g ref="char:EOLhyphen"/>ſigned Generall.</item>
+                  <item>Eſquire <hi>Hales,</hi> appointed Lieutenant Generall.</item>
+                  <item>Sir <hi>VVilliam Compton</hi> their Major Generall.</item>
+                  <item>Sir <hi>Bernard Gaſcoyne.</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Many.</hi>
+                  </item>
+                  <item>Sir <hi>Gamaliel Dudley</hi> Gover<g ref="char:EOLhyphen"/>nour of Maidſtone.</item>
+                  <item>Sir <hi>Iohn Brockman.</hi>
+                  </item>
+                  <item>Fſquire <hi>Scott.</hi>
+                  </item>
+                  <item>Major <hi>Price,</hi> and many o<g ref="char:EOLhyphen"/>thers.</item>
+               </list>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161776:4"/>
+            <p>Upon his Excellencies comming laſt night to Rocheſter, where he quartered with the foot and traine, aſtrong partvoſ Horſe was ſent forth under command of Col Wha. to purſue the Kentiſh bum<g ref="char:EOLhyphen"/>kins, for that's the common term our ſouldiers give them and Cavies commanded by the Lord Go<g ref="char:EOLhyphen"/>ring, and this morning we fell upon them, and have taken ſome priſoners which are brought thi<g ref="char:EOLhyphen"/>ther, ſome of the enemy fled into the I hames, and others boated over into Eſſex, and left their hor<g ref="char:EOLhyphen"/>les behind them, many o en drowned for haſt to get over, a party of horſe and foot is gon to clear al about Dover caſtle &amp; <hi>I</hi> hope regain Deal caſtle and perhaps change the diſpoſition of the Seamen, beleeve it if the earl of Warwick was here now they would he glad of ſuch a mediatour for mer<g ref="char:EOLhyphen"/>cy to be ſhewed to them: the buſineſſe of Maid<g ref="char:EOLhyphen"/>ſtone was far greater then I firſt preſented, wet tooke above 1400 priſoners, 500 horſe 16 barrels of powder, 12 run of march,, and 2000 Armes; A great fear is one the hearts of the whole county, the Lord give the parliament and City hearts to diſcern and be thankful for ſo great adeliverance as this of Kest, in which ſo many ſo many deſ<g ref="char:EOLhyphen"/>perate deſigns are linkt together: I ſuppoſe you
+<pb n="5" facs="tcp:161776:4"/>
+have the buſineſſe of the Iſle of Wight at large, but the deſign faild there, and the ſnare is bro<g ref="char:EOLhyphen"/>ken here.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>Rocheſter <date>the 4 of Junij 1648.</date>
+               </dateline>
+            </opener>
+            <p>On Sunday night laſt being the fourth of this in<g ref="char:EOLhyphen"/>ſtant <hi>June</hi> there was aſmall skirmiſh between ſome of the Lord Gorings Forces which were joyned with the Eſsexmen at <hi>Bow,</hi> &amp; ſome of the Lord Generalls horſe which were cone back to mile end, and are commanded by <hi>Col: Whaley,</hi> there was about 3 men killed on both ſides, thoſe of the Eſſex party were forced to retreat again to <hi>Bow bridge</hi> and further action ceaſed for the the preſent there are more horſes mounting in the City of London to aſſiſt thoſe on that ſide the river of bow and the L. Gen. is comming back, and will be on the other ſide this night or to morrow Sunnons are givento the contrary party for a fuller appearance of the Eſsex men who are much diſoartned at thenew, they hear of ſucceſſe of the Kentiſhmen, which were drawn into ſuch a condition by the Cavaliers which were in the head of them, that if his Excellencies forces had bad no more mecy on the poor Country men and their wives, and children, then thoſe by whom they were deluded, with whom they were ingaged they might all have been cut in peaces for when the Generalls Army had ingaged the whole bo<g ref="char:EOLhyphen"/>dy of the Kentiſhmen to fight, or lay down their Armes,
+<pb n="6" facs="tcp:161776:5"/>
+then thoſe which were moſt active and moſt of them gotten into places of command fled away with the L. Goring into Eſſex and how deeply that Country may alſo ſuffer, by en<g ref="char:EOLhyphen"/>tertaining ſuch gueſts time will make manifeſt many of the moderate party in Eſſex are much ſtartled at the Lord, Go<g ref="char:EOLhyphen"/>rings comming thither, ſome ſay he is a papiſt, &amp;c. And did great diſſervice in Kent, the women alſo cry out for their husbands and many of them by perſwaſion do prevail with their husbands which have been forward in appearing.</p>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Gilbert Mabbott.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
